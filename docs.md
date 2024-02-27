@@ -41,6 +41,7 @@ Kiến trúc Output Stream (Luồng xuất dữ liệu)
 Sử dụng luồng byte trong các trường hợp như nhập xuất kiểu dữ liệu nguyên thủy (như kiểu int, float, double, boolean), nhập xuất kiểu dữ liệu kiểu đối tượng (object)
 
 Đọc và ghi dữ liệu nhị phân (binary data)
+
 ![](https://giasutinhoc.vn/wp-content/uploads/2016/02/doc-va-ghi-file-trong-java-6.jpg)
 
 Một số phương thức xử lý dữ liệu nhị phân của class DataInputStream
